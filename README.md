@@ -26,7 +26,7 @@ This project demonstrates how to automate the build and execution of a Java appl
 ## Prerequisites
 
 - Ubuntu Linux
-- Java 21
+- Java 17
 - Gradle 8.7
 - Git
 - Jenkins
@@ -44,7 +44,7 @@ git clone https://github.com/chinnu9729/HorizonTechX_JavaGradle1.git
 ### Go to Project
 
 ```bash
-cd HorizonTechX_JavaGradle
+cd HorizonTechX_JavaGradle1
 ```
 
 ### Build Project
